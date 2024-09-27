@@ -1,0 +1,51 @@
+.btn{
+    width: 100%;
+    .blue{
+        border-radius: 15px;
+        padding: 2px 30px;
+        color: white;
+        background-color: var(--button-bg-blue);
+        border: 1px solid var(--button-bg-blue);
+        transition: 0.3s ease-in-out;
+        &:hover{
+            background: #00f;
+            transition: 0.3s ease-in-out;
+        }
+    }
+    .red{
+        border-radius: 15px;
+        padding: 2px 30px;
+        color: white;
+        background-color: var(--button-bg-red);
+        border: 1px solid var(--button-bg-red);
+        transition: 0.3s ease-in-out;
+        &:hover{
+            background: #f00;
+            transition: 0.3s ease-in-out;
+        }
+    }
+    .gray{
+        border-radius: 15px;
+        padding: 2px 30px;
+        color: white;
+        background-color: var(--button-bg-gray);
+        border: 1px solid var(--button-bg-gray);
+        transition: 0.3s ease-in-out;
+        &:hover{
+            background: #000;
+            transition: 0.3s ease-in-out;
+        }
+    }
+    .white{
+        border-radius: 25px;
+        padding: 11px 23px;
+        background-color: var(--bg-white-color);
+        border: 1px solid var(--border-white);
+        transition: 0.3s ease-in-out;
+        &:hover{
+            background-color: aqua;
+            border: 1px solid aqua;
+            transition: 0.3s ease-in-out;
+        }
+    }
+}

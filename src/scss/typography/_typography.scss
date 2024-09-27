@@ -1,0 +1,88 @@
+// Font's mixins types
+
+@mixin font-12{
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+}
+@mixin font-13{
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+}
+@mixin font-14{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+@mixin font-16{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+}
+@mixin font-18{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+@mixin font-20{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+}
+@mixin font-22{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28px;
+}
+@mixin font-24{
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 30px;
+}
+@mixin font-26{
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 32px;
+}
+@mixin font-28{
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 36px;
+}
+@mixin font-30{
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+}
+@mixin font-31{
+    font-size: 31px;
+    font-weight: 800;
+    line-height: 38px;
+}
+@mixin font-32{
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 38px;
+}
+@mixin font-33{
+    font-size: 33px;
+    font-weight: 800;
+    line-height: 40px;
+}
+@mixin font-44{
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 50px;
+}
+@mixin font-48{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 55px;
+}
+@mixin font-57{
+    font-size: 57px;
+    font-weight: 600;
+    line-height: 64px;
+}
+

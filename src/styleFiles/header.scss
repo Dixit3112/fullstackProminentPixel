@@ -1,0 +1,30 @@
+.Header{
+    margin: 0;
+    .container{
+        max-width: 1280px;
+        margin: 0 auto;
+        .header{
+            font-size: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            .infoHead{
+                width: 450px;
+                text-align: center;
+            }
+            .Logo{
+                width: 450px;
+                text-align: center;
+            }
+            .signIn{
+                width: 400px;
+                text-align: center;
+            }
+            a{
+            color: #fff;
+
+            }
+        }
+    }
+}

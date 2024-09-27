@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import "./index.scss";
+@import "./container/container";
+@import "./theme/theme";
+@import "./typography/typography";
+@import "./button/button";
+@import "./mixin/mixin";
+@import "./loading/loading";

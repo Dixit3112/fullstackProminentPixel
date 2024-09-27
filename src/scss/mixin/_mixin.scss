@@ -1,0 +1,83 @@
+// Flex & Grid Mixins
+@mixin flex-col-start{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+@mixin flex-col-evenly{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+@mixin flex-col-between{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+@mixin flex-start{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+@mixin flex-col-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+@mixin flex-col-centers{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+@mixin flex-centers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@mixin flex-spacebet{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+@mixin flex-around{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+@mixin flex-start{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+@mixin grid-2{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(2 , 1fr);
+}
+@mixin grid-3-col{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(3 , 1fr);
+}
+@mixin grid-4-col{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(4 , 1fr);
+}
+@mixin grid-5-col{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(5 , 1fr);
+}
+@mixin grid-6-col{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(6 , 1fr);
+}

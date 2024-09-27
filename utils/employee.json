@@ -1,0 +1,46 @@
+[
+    {
+        "address": "302, Shree Hari Height, chhaprabhatha road, Amroli",
+        "birthDate": "1998-01-31",
+        "department": "Production",
+        "designation": "HOD",
+        "email": "dixit.dr123@gmail.com",
+        "gender": "Male",
+        "joiningDate": "2019-05-03",
+        "name": "dixit",
+        "password": "159263",
+        "phoneNo": "0972 603 3658",
+        "role": "HOD",
+        "salary": "150000",
+        "statusbar": "Active"
+    },
+    {
+        "address": "205, SHH, Amroli",
+        "birthDate": "1984-05-25",
+        "department": "QA",
+        "designation": "Manager",
+        "email": "sgr@gmail.com",
+        "gender": "Male ",
+        "joiningDate": "2014-04-12",
+        "name": "Sagar",
+        "password": "159487",
+        "phoneNo": "1234567890",
+        "role": "Products' final document checking",
+        "salary": "120000",
+        "statusbar": "Active"
+    },{
+        "address": "302, SHH, Amroli",
+        "birthDate": "1995-02-11",
+        "department": "QA",
+        "designation": "General Manager",
+        "email": "kdr@gmail.com",
+        "gender": "Male ",
+        "joiningDate": "2010-05-20",
+        "name": "Kishan",
+        "password": "123456789",
+        "phoneNo": "9898292969",
+        "role": "Manageging company's employees ",
+        "salary": "500000",
+        "statusbar": "Active"
+    }
+]
